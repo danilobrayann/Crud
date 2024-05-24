@@ -1,30 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\",
+  "WorkspaceRootPath": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6578A96C-8FEA-406C-9FB9-7869BC7CEE5E}|api\\api.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\crud\\api\\api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6578A96C-8FEA-406C-9FB9-7869BC7CEE5E}|api\\api.csproj|solutionrelative:api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8682BC9-CB94-47F2-AA2F-95034113DC92}|API\\API.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\crud\\api\\api\\models\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8682BC9-CB94-47F2-AA2F-95034113DC92}|API\\API.csproj|solutionrelative:api\\models\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6578A96C-8FEA-406C-9FB9-7869BC7CEE5E}|api\\api.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\crud\\api\\api\\models\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6578A96C-8FEA-406C-9FB9-7869BC7CEE5E}|api\\api.csproj|solutionrelative:api\\models\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8682BC9-CB94-47F2-AA2F-95034113DC92}|API\\API.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\crud\\api\\api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8682BC9-CB94-47F2-AA2F-95034113DC92}|API\\API.csproj|solutionrelative:api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6578A96C-8FEA-406C-9FB9-7869BC7CEE5E}|api\\api.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\crud\\api\\api\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6578A96C-8FEA-406C-9FB9-7869BC7CEE5E}|api\\api.csproj|solutionrelative:api\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8682BC9-CB94-47F2-AA2F-95034113DC92}|API\\API.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\crud\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8682BC9-CB94-47F2-AA2F-95034113DC92}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6578A96C-8FEA-406C-9FB9-7869BC7CEE5E}|api\\api.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\crud\\api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6578A96C-8FEA-406C-9FB9-7869BC7CEE5E}|api\\api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A8682BC9-CB94-47F2-AA2F-95034113DC92}|API\\API.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\crud\\api\\api\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8682BC9-CB94-47F2-AA2F-95034113DC92}|API\\API.csproj|solutionrelative:api\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6578A96C-8FEA-406C-9FB9-7869BC7CEE5E}|api\\api.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\crud\\api\\api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6578A96C-8FEA-406C-9FB9-7869BC7CEE5E}|api\\api.csproj|solutionrelative:api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6578A96C-8FEA-406C-9FB9-7869BC7CEE5E}|api\\api.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\crud\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6578A96C-8FEA-406C-9FB9-7869BC7CEE5E}|api\\api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8682BC9-CB94-47F2-AA2F-95034113DC92}|API\\API.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\crud\\api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8682BC9-CB94-47F2-AA2F-95034113DC92}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,93 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EFDBcontext.cs",
-              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\api\\Models\\EFDBcontext.cs",
-              "RelativeDocumentMoniker": "api\\Models\\EFDBcontext.cs",
-              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\api\\Models\\EFDBcontext.cs",
-              "RelativeToolTip": "api\\Models\\EFDBcontext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\API\\API\\Models\\EFDBcontext.cs",
+              "RelativeDocumentMoniker": "API\\Models\\EFDBcontext.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\API\\API\\Models\\EFDBcontext.cs",
+              "RelativeToolTip": "API\\Models\\EFDBcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T20:42:28.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "api",
-              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\api\\api.csproj",
-              "RelativeDocumentMoniker": "api\\api.csproj",
-              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\api\\api.csproj",
-              "RelativeToolTip": "api\\api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-23T20:37:13.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\api\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "api\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\api\\WeatherForecast.cs",
-              "RelativeToolTip": "api\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T18:40:27.917Z",
+              "WhenOpened": "2024-05-24T17:24:05.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\api\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "api\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\api\\Models\\Categoria.cs",
-              "RelativeToolTip": "api\\Models\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T18:12:42.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\api\\Controllers\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "api\\Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\api\\Controllers\\CategoriaController.cs",
-              "RelativeToolTip": "api\\Controllers\\CategoriaController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBsAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T17:59:09.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\api\\Program.cs",
-              "RelativeDocumentMoniker": "api\\Program.cs",
-              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\api\\Program.cs",
-              "RelativeToolTip": "api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T17:56:25.71Z",
+              "WhenOpened": "2024-05-24T17:02:13.971Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "API",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\API\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\API\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T16:18:55.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\API\\API\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\API\\API\\Models\\Categoria.cs",
+              "RelativeToolTip": "API\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:18:22.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\API\\API\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\API\\API\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "API\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAtwBIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:07:54.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

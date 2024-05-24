@@ -1,22 +1,21 @@
 <template>
-  <v-sheet class="mx-auto h-15" width="500">
+  <v-sheet class="mx-auto h-15 text-center" width="500" height="500" >
     <v-form ref="form" v-model="valid">
       <v-text-field
-        v-model="categoria.nome"
-        :counter="10"
+        v-model="name"
+        :min="5"
         :rules="nomeRules"
         label="Seu Nome"
         required
       ></v-text-field>
-      
+
       <v-text-field
-        v-model="categoria.email"
+        v-model="email"
         :rules="emailRules"
         label="Seu Email"
         required
       ></v-text-field>
-      
-    
+
       <div class="d-flex flex-column">
         <v-btn
           class="mt-4"
@@ -27,66 +26,59 @@
           Submit
         </v-btn>
       </div>
+      <h1> Bem Vindo</h1>
+      <h1> Faça Seu Login ...</h1>
     </v-form>
   </v-sheet>
+ 
 </template>
 
 <script>
-import axios from 'axios';
 
-export default {
-  data: () => ({
-    valid: true,
-    categoria: {
-      nome: "",
-      email: "",
-    },
-    nomeRules: [
-      v => !!v || "Nome é obrigatório",
-      v => (v && v.length >= 5) || "Nome precisa de ter pelo menos 5 caracteres",
+export default{
+  data:() =>({
+    
+    name:'',
+    nameRules:[
+      v => !!v || 'name is required',
+      v => (v && v.length > 5) || 'name must be less than 10 characters',
     ],
-    emailRules: [
-      v => !!v || "Email é obrigatório",
-      v => /.+@.+\..+/.test(v) || "Email deve ser válido",
-    ],
-    categorias: [
-      {
-        nome: "Categoria 1",
-        descricao: "descrição da categoria 1",
-      },
+    email:'',
+    emailRules:[
+      v => !!v || 'email is required',
+      v => /.+@.+\..+/.test(v) || 'email must be less than 10 characters',
     ],
   }),
-  methods: {
-    async submit() {
-      if (!this.$refs.form.validate()) {
-        alert("Preencha o formulário corretamente.");
-        return;
-      }
-      
-      try {
-        let response = await axios.post('https://localhost:7023/Categoria', this.categoria);
+  methods:{
+   async submit(){
+      debugger
+      try{
+     let res = await this.$axios({
+        url:"https://localhost:7051/Categoria",
+        method:'POST',
+        
+        data:{
+          name:this.name,
+          email:this.email
+        }
+      })
+      debugger
+    } catch{}
+    }
+  }
+}
 
-        alert('Formulário enviado com sucesso');
-        console.log(response);
-
-        let responseGet = await axios.get('https://localhost:7023/Categoria');
-        this.categorias = responseGet.data;
-      } catch (error) {
-        console.error('Erro ao enviar o formulário:', error);
-        alert('Falha ao enviar o formulário');
-      }
-    },
-  },
-};
+  
 </script>
+
 
 <style scoped>
 button {
   border-radius: 55px;
   width: 100%;
+  
 }
 </style>
-
 
 
 

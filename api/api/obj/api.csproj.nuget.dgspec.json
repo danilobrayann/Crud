@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\api\\api.csproj": {}
+    "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\API\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\api\\api.csproj": {
+    "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\API\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\api\\api.csproj",
-        "projectName": "api",
-        "projectPath": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\api\\api.csproj",
+        "projectUniqueName": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\API\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\API\\API\\API.csproj",
         "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\api\\api\\obj\\",
+        "outputPath": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\Crud\\API\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,14 +46,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.InMemory": {
-              "target": "Package",
-              "version": "[8.0.5, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
