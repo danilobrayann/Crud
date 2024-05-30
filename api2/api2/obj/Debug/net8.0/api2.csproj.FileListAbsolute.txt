@@ -1,8 +1,0 @@
-C:\Users\danil\OneDrive\Documentos\GitHub\Crud\api2\api2\obj\Debug\net8.0\api2.csproj.AssemblyReference.cache
-C:\Users\danil\OneDrive\Documentos\GitHub\Crud\api2\api2\obj\Debug\net8.0\api2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\danil\OneDrive\Documentos\GitHub\Crud\api2\api2\obj\Debug\net8.0\api2.AssemblyInfoInputs.cache
-C:\Users\danil\OneDrive\Documentos\GitHub\Crud\api2\api2\obj\Debug\net8.0\api2.AssemblyInfo.cs
-C:\Users\danil\OneDrive\Documentos\GitHub\Crud\api2\api2\obj\Debug\net8.0\api2.csproj.CoreCompileInputs.cache
-C:\Users\danil\OneDrive\Documentos\GitHub\Crud\api2\api2\obj\Debug\net8.0\api2.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\danil\OneDrive\Documentos\GitHub\Crud\api2\api2\obj\Debug\net8.0\api2.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\danil\OneDrive\Documentos\GitHub\Crud\api2\api2\obj\Debug\net8.0\api2.sourcelink.json
